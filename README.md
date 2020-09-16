@@ -1,2 +1,3 @@
 # springCloud
 学习springCloud的资料，笔记，练习，交流所用。
+eureka原理分析：https://zhuanlan.zhihu.com/p/88385121
